@@ -1,0 +1,7 @@
+<Envelope xmlns="http://schemas.xmlsoap.org/soap/envelope/">
+    <Body>
+        <CountryName xmlns="http://www.oorsprong.org/websamples.countryinfo">
+            <sCountryISOCode>IN</sCountryISOCode>
+        </CountryName>
+    </Body>
+</Envelope>
